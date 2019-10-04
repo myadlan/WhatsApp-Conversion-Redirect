@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>
+            Redirecting WhatsApp chat
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta http-equiv="refresh" content="1; URL='https://api.whatsapp.com/send?phone=60143428790&text=Hi%20saya%20berminat%20nak%20dapatkan%20%5Bpropa%20quin%5D.%20Boleh%20beri%20detail%20bayaran.'" />
+<style>
+.outer {text-align: center; vertical-align: middle; height:100vh; position: relative;}
+.inner {
+  margin: 0;
+  width:100%;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+body {font-family: 'Helvetica', Arial, sans-serif;}
+h1 {color:#46d000;}
+</style>
+<!-- Global site tag (gtag.js) - Google Ads: 941463501 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-941463501"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-941463501');
+</script>
+<!-- Event snippet for Wasap PQ conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-941463501/xqyRCMmTpq0BEM2v9sAD'});
+</script>
+    </head>
+    <body>  
+      <div class="outer">
+        <div class="inner"> 
+          <h1>Success! <br/> 
+            Redirecting to WhatsApp</h1>
+          <p>Click <a href="https://api.whatsapp.com/send?phone=60143428790&text=Hi%20saya%20berminat%20nak%20dapatkan%20%5Bpropa%20quin%5D.%20Boleh%20beri%20detail%20bayaran.">here</a> if not redirected within 5 seconds</p>
+        </div>
+      </div>
+    </body>
+</html>
