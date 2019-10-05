@@ -2,7 +2,7 @@
 
 # Introduction
 
-Developed by [link](https://dezeek.com "Dezeek - Digital Marketing Agency Malaysia").
+Developed by Dezeek Media - [Digital Marketing Agency Malaysia](https://dezeek.com "Dezeek - Digital Marketing Agency Malaysia").
 
 
 * Copy the code below before the tag `<body>`
@@ -17,7 +17,9 @@ Developed by [link](https://dezeek.com "Dezeek - Digital Marketing Agency Malays
 ~~~~
 
 This code has been used by so many people including:
-* [link](https://grab-driver.com.my "Daftar Pemandu Grab")
-* [link](https://grabdriver.com.my "Daftar Grab Driver Online")
-* [link](https://grab-signup.com.my "How to be a Grab Driver")
-* [link](https://grabcar-malaysia.com.my "Daftar Pemandu Grab")
+* [Daftar Pemandu Grab](https://grab-driver.com.my "Daftar Pemandu Grab")
+* [Kad Kahwin](https://kaddansa.com "Kad Kahwin")
+* [Daftar Grab Driver Online](https://grabdriver.com.my "Daftar Grab Driver Online")
+* [How to be a Grab driver](https://grab-signup.com.my "How to be a Grab Driver")
+* [Daftar Pemandu Grab](https://grabcar-malaysia.com.my "Daftar Pemandu Grab")
+* [Hammer of Thor](https://hammerthor.asia "Hammer of Thor")
