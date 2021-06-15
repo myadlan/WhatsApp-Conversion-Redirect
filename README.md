@@ -22,3 +22,7 @@ This code has been used by so many people including:
 * [Malaysia Printing Service by Printar Ipoh](https://ipohprint.my "Perak Ipoh Printing service")
 * [Hammer of Thor](https://hammerthor.asia "Hammer of Thor")
 * [Urus Pusaka & Wasiat](https://awfarconsultancy.com "Urus Pusaka")
+
+## Special thanks to 
+* [Tuisyen Matematik SPM Online](https://cikguzz.com "Tuisyen Matematik Online")
+* [Tadika Islam Puchong Little Caliph](https://kasihkhalifah.com "Tadika Islam Puchong Little Caliph")
