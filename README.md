@@ -19,9 +19,6 @@ Developed by Dezeek Media - [Digital Marketing Agency Malaysia](https://dezeek.c
 This code has been used by so many people including:
 
 * [Kad Kahwin by Kad Dansa](https://kaddansa.com "Kad Kahwin")
-* [Malaysia Printing Service by Printar Ipoh](https://ipohprint.my "Perak Ipoh Printing service")
-* [Hammer of Thor](https://hammerthor.asia "Hammer of Thor")
-* [Urus Pusaka & Wasiat](https://awfarconsultancy.com "Urus Pusaka")
 
 ## Special thanks to 
 * [Tuisyen Matematik SPM Online](https://cikguzz.com "Tuisyen Matematik Online")
